@@ -61,3 +61,9 @@ end
 
 ##### 4. Comprobación de nuevo usuario
 ![](capturas/comprobacion_nuevo_usuario.png)
+
+---
+
+## 4. Screencast
+
+https://github.com/user-attachments/assets/51e6d82f-707d-40cd-81cc-c5a25a7f893f
