@@ -44,3 +44,20 @@ Vagrant.configure("2") do |config|
     mysql.vm.provision "shell", path: "scripts/provision_mysql.sh"
   end
 end
+```
+
+---
+
+## 3. Comprobaciones (Capturas)
+
+##### 1. Comprobación de la app desde el navegador (Port Forwarding)
+![](capturas/comprobacion_localhost.png)
+
+##### 2. Comprobación del servidor Apache y conexión a Internet
+![](capturas/comprobacion_apache.png)
+
+##### 3. Comprobación del servidor MySQL y el aislamiento de Internet
+![](capturas/comprobacion_mysql.png)
+
+##### 4. Comprobación de nuevo usuario
+![](capturas/comprobacion_nuevo_usuario.png)
